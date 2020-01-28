@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/Users/yujichai/Documents/Research/GibbsProject/parallelgibbs/gibbslib'
+let g:netrw_dirhist_8='/Users/yujichai/Documents/Research/GibbsProject/SM5_FPGA_Gibbs/Design'
+let g:netrw_dirhist_7='/Users/yujichai/Documents/Research/GibbsProject/SM5_FPGA_Gibbs'
+let g:netrw_dirhist_6='/Users/yujichai/Documents/Research/GibbsProject/SM5_FPGA_Gibbs/Design'
+let g:netrw_dirhist_5='/Users/yujichai/Documents/Research/GibbsProject/SM5_FPGA_Gibbs'
+let g:netrw_dirhist_4='/Users/yujichai/Documents/Research/GibbsProject/SM5_FPGA_Gibbs/Design'
+let g:netrw_dirhist_3='/Users/yujichai/Documents/Research/GibbsProject/SM5_FPGA_Gibbs'
+let g:netrw_dirhist_2='/Users/yujichai/Documents/Research/GibbsProject/SM5_FPGA_Gibbs/Design'
+let g:netrw_dirhist_1='/Users/yujichai/Documents/Research/GibbsProject/SM5_FPGA_Gibbs'
+let g:netrw_dirhist_0='/Users/yujichai/Documents/Research/GibbsProject/SM5_FPGA_Gibbs/Design'
